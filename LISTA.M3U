@@ -1,31 +1,49 @@
 #EXTM3U
 
---- ABERTOS ---
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ9d1YrpmkzUwbIqLY-fbNVjM76FpRpA791Q&usqp=CAU" group-title="CANAIS ABERTOS",GLOBO | 4k
-http://mundo2.vip:80//live/ALciDNj5196/hczsc8gJxkhd/111733.ts
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SP | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwSOG35zAjlaa8XVSppPwTCl66-C6grIzrBg&usqp=CAU" group-title="CANAIS ABERTOS",RECORD SP | 4k
-http://mundo2.vip:80//live/ALciDNj5196/hczsc8gJxkhd/111757.ts
-#EXTINF:-1 tvg-id="" tvg-name="BAND SP | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmN7Lf94uwCrO0DV7xSHXpYCC-EsvmWJ9ULw&usqp=CAU" group-title="CANAIS ABERTOS",BAND SP | 4k
-http://mundo2.vip:80//live/ALciDNj5196/hczsc8gJxkhd/111692.ts
-#EXTINF:-1 tvg-id="" tvg-name="SBT HD" tvg-logo="" group-title="CANAIS ABERTOS",SBT HD
-http://mundo2.vip:80//live/ALciDNj5196/hczsc8gJxkhd/111758.ts
+#EXTINF:-1 tvg-id="globo" group-title="CANAIS ABERTOS",GLOBO SP
+http://mundo2.pro:80/live/ALciDNj5196/hczsc8gJxkhd/111730.ts
 
---- DOCUMENTÁRIO ---
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8CgM6YgWdffgELi7z4EjooXWDR57mh5iaug&usqp=CAU" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL | 4k
-http://mundo2.vip:80//live/ALciDNj5196/hczsc8gJxkhd/111700.ts
+#EXTINF:-1 tvg-id="record" group-title="CANAIS ABERTOS",RECORD SP
+http://mundo2.pro:80/live/ALciDNj5196/hczsc8gJxkhd/111757.ts
 
---- FILMES ---
-#EXTINF:-1 tvg-id="" tvg-name="HBO | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzwbNm8Ukd7ifI04MlOhftL59_6xgRrqOKaA&usqp=CAU" group-title="FILMES E SERIES",HBO | 4k
-http://mundo2.vip:80//live/ALciDNj5196/hczsc8gJxkhd/111737.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5_qDQGfgObHyFffB3FWXuPtDXvu_eugDblA&usqp=CAU" group-title="FILMES E SERIES",TELECINE PREMIUM | 4k
-http://mundo2.vip:80//live/ALciDNj5196/hczsc8gJxkhd/111770.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbZC3SIjNdwUvzfyt46vNofHJcvEtMV-dVOA&usqp=CAU" group-title="FILMES E SERIES",TELECINE ACTION | 4k
-http://mundo2.vip:80//live/ALciDNj5196/hczsc8gJxkhd/111766.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmf42H9MB-4Q6lyVfrh77qPeG4KFri1nICyg&usqp=CAU" group-title="FILMES E SERIES",TELECINE TOUCH | 4k
-http://mundo2.vip:80//live/ALciDNj5196/hczsc8gJxkhd/111771.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn69U1m8UiQ1GTJHBxHG3sX681oaj_Yl5ikg&usqp=CAU" group-title="FILMES E SERIES",TELECINE PIPOCA | 4k
-http://mundo2.vip:80//live/ALciDNj5196/hczsc8gJxkhd/111769.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlqD2YOQKttJbQ9DtDe1iiloL4Lezxl4wPyw&usqp=CAU" group-title="FILMES E SERIES",TELECINE CULT | 4k
-http://mundo2.vip:80//live/ALciDNj5196/hczsc8gJxkhd/111767.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_0Y5KRVBhCAuKXktcq4HFTls06BLqjE0BPQ&usqp=CAU" group-title="FILMES E SERIES",TELECINE FUN | 4k
-http://mundo2.vip:80//live/ALciDNj5196/hczsc8gJxkhd/111768.ts
+#EXTINF:-1 tvg-id="band" group-title="CANAIS ABERTOS",BAND SP
+http://mundo2.pro:80/live/ALciDNj5196/hczsc8gJxkhd/111692.ts
+
+#EXTINF:-1 tvg-id="sbt" group-title="CANAIS ABERTOS",SBT HD
+http://mundo2.pro:80/live/ALciDNj5196/hczsc8gJxkhd/111774.ts
+
+
+#EXTINF:-1 tvg-id="hbo" group-title="FILMES",HBO
+http://mundo2.pro:80/live/ALciDNj5196/hczsc8gJxkhd/111737.ts
+
+#EXTINF:-1 tvg-id="space" group-title="FILMES",SPACE
+http://mundo2.pro:80/live/ALciDNj5196/hczsc8gJxkhd/111760.ts
+
+#EXTINF:-1 tvg-id="telecineaction" group-title="FILMES",TELECINE ACTION
+http://mundo2.pro:80/live/ALciDNj5196/hczsc8gJxkhd/111766.ts
+
+#EXTINF:-1 tvg-id="star" group-title="FILMES",STAR CHANNEL
+http://mundo2.pro:80/live/ALciDNj5196/hczsc8gJxkhd/111718.ts
+
+#EXTINF:-1 tvg-id="warner" group-title="SERIES",WARNER
+http://mundo2.pro:80/live/ALciDNj5196/hczsc8gJxkhd/111780.ts
+
+
+#EXTINF:-1 tvg-id="discoveryturbo" group-title="DOCUMENTARIO",DISCOVERY TURBO
+http://mundo2.pro:80/live/ALciDNj5196/hczsc8gJxkhd/111706.ts
+
+#EXTINF:-1 tvg-id="history" group-title="DOCUMENTARIO",HISTORY CHANNEL
+http://mundo2.pro:80/live/ALciDNj5196/hczsc8gJxkhd/111743.ts
+
+#EXTINF:-1 tvg-id="natgeo" group-title="DOCUMENTARIO",NATIONAL GEOGRAPHIC
+http://mundo2.pro:80/live/ALciDNj5196/hczsc8gJxkhd/111751.ts
+
+#EXTINF:-1 tvg-id="discoveryscience" group-title="DOCUMENTARIO",DISCOVERY SCIENCE
+http://mundo2.pro:80/live/ALciDNj5196/hczsc8gJxkhd/111703.ts
+
+
+#EXTINF:-1 tvg-id="kanald" group-title="TELENOVELAS",KANAL D DRAMA HD
+http://mundo2.pro:80/live/ALciDNj5196/hczsc8gJxkhd/360895.ts
+
+#EXTINF:-1 tvg-id="tntnovelas" group-title="TELENOVELAS",TNT NOVELAS HD
+http://mundo2.pro:80/live/ALciDNj5196/hczsc8gJxkhd/99829.ts
