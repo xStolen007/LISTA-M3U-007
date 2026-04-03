@@ -1,4 +1,49 @@
 #EXTM3U
 
-#EXTINF:-1,GLOBO
+#EXTINF:-1 tvg-id="globo" group-title="CANAIS ABERTOS",GLOBO SP
 http://mundo2.pro:80/live/ALciDNj5196/hczsc8gJxkhd/111730.ts
+
+#EXTINF:-1 tvg-id="record" group-title="CANAIS ABERTOS",RECORD SP
+http://mundo2.pro:80/live/ALciDNj5196/hczsc8gJxkhd/111757.ts
+
+#EXTINF:-1 tvg-id="band" group-title="CANAIS ABERTOS",BAND SP
+http://mundo2.pro:80/live/ALciDNj5196/hczsc8gJxkhd/111692.ts
+
+#EXTINF:-1 tvg-id="sbt" group-title="CANAIS ABERTOS",SBT HD
+http://mundo2.pro:80/live/ALciDNj5196/hczsc8gJxkhd/111774.ts
+
+
+#EXTINF:-1 tvg-id="hbo" group-title="FILMES",HBO
+http://mundo2.pro:80/live/ALciDNj5196/hczsc8gJxkhd/111737.ts
+
+#EXTINF:-1 tvg-id="space" group-title="FILMES",SPACE
+http://mundo2.pro:80/live/ALciDNj5196/hczsc8gJxkhd/111760.ts
+
+#EXTINF:-1 tvg-id="telecineaction" group-title="FILMES",TELECINE ACTION
+http://mundo2.pro:80/live/ALciDNj5196/hczsc8gJxkhd/111766.ts
+
+#EXTINF:-1 tvg-id="star" group-title="FILMES",STAR CHANNEL
+http://mundo2.pro:80/live/ALciDNj5196/hczsc8gJxkhd/111718.ts
+
+#EXTINF:-1 tvg-id="warner" group-title="SERIES",WARNER
+http://mundo2.pro:80/live/ALciDNj5196/hczsc8gJxkhd/111780.ts
+
+
+#EXTINF:-1 tvg-id="discoveryturbo" group-title="DOCUMENTARIO",DISCOVERY TURBO
+http://mundo2.pro:80/live/ALciDNj5196/hczsc8gJxkhd/111706.ts
+
+#EXTINF:-1 tvg-id="history" group-title="DOCUMENTARIO",HISTORY CHANNEL
+http://mundo2.pro:80/live/ALciDNj5196/hczsc8gJxkhd/111743.ts
+
+#EXTINF:-1 tvg-id="natgeo" group-title="DOCUMENTARIO",NATIONAL GEOGRAPHIC
+http://mundo2.pro:80/live/ALciDNj5196/hczsc8gJxkhd/111751.ts
+
+#EXTINF:-1 tvg-id="discoveryscience" group-title="DOCUMENTARIO",DISCOVERY SCIENCE
+http://mundo2.pro:80/live/ALciDNj5196/hczsc8gJxkhd/111703.ts
+
+
+#EXTINF:-1 tvg-id="kanald" group-title="TELENOVELAS",KANAL D DRAMA HD
+http://mundo2.pro:80/live/ALciDNj5196/hczsc8gJxkhd/360895.ts
+
+#EXTINF:-1 tvg-id="tntnovelas" group-title="TELENOVELAS",TNT NOVELAS HD
+http://mundo2.pro:80/live/ALciDNj5196/hczsc8gJxkhd/99829.ts
